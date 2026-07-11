@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypesPractice", "TypesPractice\TypesPractice.csproj", "{748495F0-623B-404A-B84A-E6FF14BEB69B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncDeadlock", "AsyncDeadlock\AsyncDeadlock.csproj", "{35E0BF2A-F556-4045-B35F-7819E9C72A93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{748495F0-623B-404A-B84A-E6FF14BEB69B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{748495F0-623B-404A-B84A-E6FF14BEB69B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{748495F0-623B-404A-B84A-E6FF14BEB69B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35E0BF2A-F556-4045-B35F-7819E9C72A93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35E0BF2A-F556-4045-B35F-7819E9C72A93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35E0BF2A-F556-4045-B35F-7819E9C72A93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35E0BF2A-F556-4045-B35F-7819E9C72A93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
